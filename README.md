@@ -56,3 +56,6 @@ $ python run_testing_worker.py
 
 - TiDB does not support FOREIGN KEY constraints([#18209](https://github.com/pingcap/tidb/issues/18209)).
 - TiDB does not support SAVEPOINT([#6840](https://github.com/pingcap/tidb/issues/6840)).
+
+test ci 
+trigger push
